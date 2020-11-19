@@ -2,7 +2,7 @@
  Our goal is to build an API that we provide text, for example, a News  article (or any article) as input, our named entity extractor will then identify and extract four types of entities: organization, person, location and money.
 
 
-[!https://cdn-images-1.medium.com/max/800/1*F85X-bnJRqTaXVMyTdoUwA.png]
+https://cdn-images-1.medium.com/max/800/1*F85X-bnJRqTaXVMyTdoUwA.png
 
 To build the API, we will need to create two files:
 
